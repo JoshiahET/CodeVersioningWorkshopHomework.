@@ -1,2 +1,3 @@
 #Summary Merging
 Merging adalah proses menggabungkan perubahan dari satu branch (cabang) ke branch lainnya12
+lalalallalalalalalla
